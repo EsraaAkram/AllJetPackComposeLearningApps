@@ -1,0 +1,69 @@
+{
+  "project_info": {
+    "project_number": "365725005028",
+    "firebase_url": "https://upwork-80dbb-default-rtdb.firebaseio.com",
+    "project_id": "upwork-80dbb",
+    "storage_bucket": "upwork-80dbb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:365725005028:android:5e6369bff76666259f28f1",
+        "android_client_info": {
+          "package_name": "com.esoapps.dailylearningtracker"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "365725005028-av6p6hom38sl54etrm6gp2ujj7sk648m.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDPMWzCLNAb_oUiUZHCo2teEZGr4bieWrY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "365725005028-av6p6hom38sl54etrm6gp2ujj7sk648m.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:365725005028:android:17b84e986ed299d99f28f1",
+        "android_client_info": {
+          "package_name": "com.esoapps.readercomposeapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "365725005028-av6p6hom38sl54etrm6gp2ujj7sk648m.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDPMWzCLNAb_oUiUZHCo2teEZGr4bieWrY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "365725005028-av6p6hom38sl54etrm6gp2ujj7sk648m.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
